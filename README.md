@@ -1,7 +1,7 @@
-# python-calculator
+ python-calculator
 This is a beginner-friendly Python Calculator project.
 
-## Features
+ Features
 - Addition
 - Subtraction
 - Multiplication
@@ -9,16 +9,16 @@ This is a beginner-friendly Python Calculator project.
 - Continuous execution using loop
 - Exit option available
 
-## Technologies Used
+ Technologies Used
 - Python
 
-## How to Run
+ How to Run
 
 ```bash
 python calculator.py
 ```
 
-## Example Output
+ Example Output
 
 Enter operation (+, -, *, /) or exit: +
 Enter first number: 10
